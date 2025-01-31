@@ -1,4 +1,4 @@
-# Laboratory Activity #2: Working with Analog Signals
+# Laboratory Activity #2
 
 ## Objectives: 
 1. Discuss analog signals and its implementation in a Arduino circuit.
