@@ -7,7 +7,7 @@ This project creates a system that controls LEDs in a specific order, turning th
 ## Description  
 This project uses an Arduino to control multiple LEDs, making them light up and turn off in sequence with a short delay. The process repeats continuously.  
 
-### Components  
+## Components  
 - **LED Pins (`ledPins[]`)**: Stores the pin numbers connected to the LEDs.  
 - **Number of LEDs (`numLeds`)**: Specifies the total number of LEDs.  
 - **Setup**: Configures LED pins as outputs.  
