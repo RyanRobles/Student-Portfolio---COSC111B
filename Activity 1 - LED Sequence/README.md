@@ -1,7 +1,7 @@
 # Laboratory Activity #1
 
 
-## Objective  
+## Objectives  
 This project creates a system that controls LEDs in a specific order, turning them on and off one by one. Users can choose to activate either odd-numbered or even-numbered LEDs separately.  
 
 ## Description  
